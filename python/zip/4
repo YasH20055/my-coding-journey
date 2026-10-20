@@ -1,0 +1,5 @@
+names = ["Yash", "Rahul"]
+marks = [90, 85]
+
+for name, mark in zip(names, marks):
+    print(name, "scored", mark)
