@@ -1,0 +1,5 @@
+subjects = ["Math", "Physics", "Python"]
+marks = [95, 88, 100]
+
+for subject, mark in zip(subjects, marks):
+    print(subject, ":", mark)
