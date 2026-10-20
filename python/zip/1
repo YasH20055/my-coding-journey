@@ -1,0 +1,7 @@
+
+fruits = ["Apple", "Banana", "Mango"]
+prices = [100, 50, 80]
+
+result = list(zip(fruits, prices))
+
+print(result)
