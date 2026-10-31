@@ -1,0 +1,11 @@
+class Animal:
+
+    def speak(self):
+        print("Animal Sound")
+
+class Dog(Animal):
+    pass
+
+dog1 = Dog()
+
+dog1.speak()
