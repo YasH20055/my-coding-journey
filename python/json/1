@@ -1,0 +1,8 @@
+import json
+
+student = {
+    "name": "Yash",
+    "age": 21
+}
+
+print(student["name"])
