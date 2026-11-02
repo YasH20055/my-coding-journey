@@ -1,0 +1,7 @@
+def numbers():
+    yield 5
+    yield 6
+
+for x in numbers():
+    print(x)
+
