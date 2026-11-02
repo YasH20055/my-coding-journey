@@ -1,0 +1,6 @@
+numbers = [100, 200, 300]
+
+it = iter(numbers)
+
+print(next(it))
+print(next(it))
