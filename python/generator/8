@@ -1,0 +1,5 @@
+gen = (x for x in [7, 8, 9])
+
+print(next(gen))
+print(next(gen))
+print(next(gen))
