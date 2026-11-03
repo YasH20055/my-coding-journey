@@ -1,0 +1,3 @@
+def show_numbers(numbers: list[int]) -> listreturn numbers
+
+print(show_numbers([1, 2, 3]))
