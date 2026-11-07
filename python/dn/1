@@ -1,0 +1,7 @@
+data = [
+    ["Yash", "21"],
+    ["Rahul", "22"],
+    ["Amit", "20"]
+]
+
+print(data[1][0])
