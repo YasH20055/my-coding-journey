@@ -1,0 +1,8 @@
+students = [
+    {"name": "Yash", "age": "21"},
+    {"name": "Rahul", "age": "22"},
+    {"name": "Amit", "age": "20"}
+]
+
+for student in students:
+    print(student["name"])
