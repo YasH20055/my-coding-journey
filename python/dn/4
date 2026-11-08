@@ -6,3 +6,7 @@ students = [
 
 for student in students:
     print(student["name"])
+
+
+
+//by lalit suryawanshi
