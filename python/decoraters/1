@@ -4,3 +4,6 @@ def greet():
 x = greet
 
 x()
+
+
+// by lalit suryawwanshi 
